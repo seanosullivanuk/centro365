@@ -1,0 +1,62 @@
+/*
+
+Name:			    Dark Mode
+Description: 	Dark Mode stylesheet
+Author:		  	Sean O'Sullivan, including work derived from a CodePen by Julia Rietveld (https://codepen.io/MrsColombo)
+Version:	  	2020-10-11
+
+*/
+
+@media (prefers-color-scheme: dark) {
+
+
+    body {
+        color: #fff;
+        background-color: #161616;
+    }
+    
+    #container_frame {
+        border-top: 4px solid #907ca8;
+        border-bottom: 4px solid #907ca8;
+    }
+    
+    .accordion-menu {
+      background: #161616;
+    }
+    
+    .accordion-menu li.open .dropdownlink {
+      color: #fff;
+    }
+    
+    .dropdownlink {
+      border-bottom: 1px solid #161616;
+      color: #fff;
+    }
+    
+    .dropdownlink:hover {
+      background-color:#282828;
+    }
+    
+    .submenuItems {
+      background: #161616;
+    }
+    
+    .submenuItems li {
+      border-bottom: 1px solid #161616;
+    }
+    
+    .submenuItems a {
+      color: #fff;
+    }
+    
+    .submenuItems a:hover {
+      background-color: #282828;
+    }
+    
+    #container_frame a {
+      color: #fff;
+    }
+
+
+
+  }

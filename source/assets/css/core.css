@@ -1,0 +1,118 @@
+/*
+
+Name:			    Core
+Description: 	Core stylesheet
+Author:		  	Sean O'Sullivan, including work derived from a CodePen by Julia Rietveld (https://codepen.io/MrsColombo)
+Version:	  	2020-10-11
+
+*/
+
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+#container_frame {
+    width: 281px;
+    border-top: 4px solid #5e3f82;
+    border-bottom: 4px solid #5e3f82;
+}
+
+.iconsize {
+  font-size: 1.2rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+  
+a {
+  text-decoration: none;
+}
+
+.accordion-menu {
+  width: 100%;
+  background: #fff;
+}
+
+.accordion-menu li.open .dropdownlink {
+  color: #5e3f82;
+}
+
+.accordion-menu li.open .dropdownlink .ms-Icon--ChevronDown {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.accordion-menu li:last-child .dropdownlink {
+  border-bottom: 0;
+}
+
+.dropdownlink {
+  cursor: pointer;
+  display: block;
+  padding: 13px 15px 13px 45px;
+  border-bottom: 1px solid #ccc;
+  color: #212121;
+  position: relative;
+}
+
+.dropdownlink i {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+}
+
+.dropdownlink .ms-Icon--ChevronDown {
+  right: 12px;
+  left: auto;
+}
+
+.dropdownlink:hover {
+  background-color:#ececec;
+}
+
+.submenuItems {
+  display: none;
+  background: #e9e9e9;
+}
+
+.submenuItems li {
+  border-bottom: 1px solid #B6B6B6;
+}
+
+.submenuItems a {
+  display: block;
+  color: #212529;
+  padding: 12px 12px 12px 45px;
+}
+
+.submenuItems a:hover {
+  background-color: #d2d2d2;
+}
+
+.about {
+  text-align: center;
+  padding-bottom: 8px;
+  padding-top: 14px;
+}
+
+#container_frame a {
+  text-decoration: none;
+  color: #212529;
+}
+
+#container_frame p {
+  padding: 12px;
+  font-size: 0.8rem;
+}
