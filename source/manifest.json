@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Centro 365",
     "short_name": "Centro 365",
-    "version": "1.0.1",
+    "version": "1.1",
     "author": "Sean O'Sullivan",
     "description": "Quick access to the 365 Admin Centres",
     "homepage_url": "https://seanosullivan.co.uk/projects/centro365/",

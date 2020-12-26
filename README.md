@@ -1,7 +1,7 @@
 # Centro 365
 
  <h4>
-    <img src="https://img.shields.io/badge/Centro%20365-1.0.1-purple.svg" />
+    <img src="https://img.shields.io/badge/Centro%20365-1.1-purple.svg" />
     <a href="https://github.com/seanosullivanuk/centro365/commits/master"><img src="https://img.shields.io/github/last-commit/seanosullivanuk/centro365.svg?style=plasticr"/></a>
  </h4>
 
