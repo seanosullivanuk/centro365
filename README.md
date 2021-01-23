@@ -19,6 +19,21 @@ Centro 365 provides quick and convenient access to many of the Microsoft 365 Adm
 
 There's support for dark mode, which switches in and out automatically, matching your operating system. What more can I say? It's a simple and straightforward web browser extension, whipped up over the course of a weekend whilst my wife was watching the racing. 🐴
 
+## Changelog
+
+### 1.2 (23 Jan 2020)
+* Additional entries for the 365 Admin Centre and Compliance
+* Added a whole new Azure Portal section
+* Changed the Azure AD icon to reflect the same one used by Microsoft
+
+### 1.1 (26 Dec 2020)
+* New items across a few of the Admin Centres
+* Organised everything into alphabetical order, where it makes sense (!)
+* Reorganised the About screen
+
+### 1.0.1 (24 Oct 2020)
+* First public release
+
 ## Official store links
 [Centro 365 on the Microsoft Edge Add-Ons Store](https://microsoftedge.microsoft.com/addons/detail/centro-365/ampgmpmlobbbhjoplcbdfcgplbkbmked)
 
