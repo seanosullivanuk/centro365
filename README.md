@@ -21,7 +21,7 @@ There's support for dark mode, which switches in and out automatically, matching
 
 ## Changelog
 
-### 1.2 (23 Jan 2020)
+### 1.2 (23 Jan 2021)
 * Additional entries for the 365 Admin Centre and Compliance
 * Added a whole new Azure Portal section
 * Changed the Azure AD icon to reflect the same one used by Microsoft
