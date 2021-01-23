@@ -2,7 +2,7 @@
 
  <h4>
     <img src="https://img.shields.io/badge/Centro%20365-1.2-purple.svg" />
-    <a href="https://github.com/seanosullivanuk/centro365/commits/master"><img src="https://img.shields.io/github/last-commit/seanosullivanuk/centro365.svg?style=plasticr"/></a>
+    <a href="https://github.com/seanosullivanuk/centro365/commits/main"><img src="https://img.shields.io/github/last-commit/seanosullivanuk/centro365.svg?style=plasticr"/></a>
  </h4>
 
 <h4>
