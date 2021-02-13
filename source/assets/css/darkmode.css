@@ -3,7 +3,7 @@
 Name:			    Dark Mode
 Description: 	Dark Mode stylesheet
 Author:		  	Sean O'Sullivan, including work derived from a CodePen by Julia Rietveld (https://codepen.io/MrsColombo)
-Version:	  	2020-10-11
+Version:	  	2021-02-13
 
 */
 
@@ -16,8 +16,8 @@ Version:	  	2020-10-11
     }
     
     #container_frame {
-        border-top: 4px solid #907ca8;
-        border-bottom: 4px solid #907ca8;
+        border-top: 6px solid #907ca8;
+        border-bottom: 6px solid #907ca8;
     }
     
     .accordion-menu {

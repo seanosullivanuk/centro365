@@ -1,7 +1,7 @@
 # Centro 365
 
  <h4>
-    <img src="https://img.shields.io/badge/Centro%20365-1.2-purple.svg" />
+    <img src="https://img.shields.io/badge/Centro%20365-1.3-purple.svg" />
     <a href="https://github.com/seanosullivanuk/centro365/commits/main"><img src="https://img.shields.io/github/last-commit/seanosullivanuk/centro365.svg?style=plasticr"/></a>
  </h4>
 
@@ -13,13 +13,35 @@
 
 ![Centro 365 in Edge](https://raw.githubusercontent.com/seanosullivanuk/centro365/main/centro365-screenshot-edge.png)
 
-Make your administration of Microsoft 365 just that little bit easier.
+Make your administration of Microsoft 365 and Microsoft Azure just that little bit easier.
 
-Centro 365 provides quick and convenient access to many of the Microsoft 365 Admin Centres. Whether you administrate just one area of 365, or you're a Global Administrator, this handy cascading menu keeps everything within close reach.
+Centro 365 provides quick and convenient access to many of the Microsoft 365 and Microsoft Azure Admin Centres. Whether you administrate just one area, or you're a Global Administrator, this handy cascading menu keeps everything within close reach.
 
-There's support for dark mode, which switches in and out automatically, matching your operating system. What more can I say? It's a simple and straightforward web browser extension, whipped up over the course of a weekend whilst my wife was watching the racing. 🐴
+There's also support for dark mode, which switches in and out automatically, matching your operating system. What more can I say? It's a simple and straightforward web browser extension, whipped up over the course of a weekend whilst my wife was watching the racing. 🐴
 
 ## Changelog
+
+### 1.3 (13 Feb 2021)
+* [New] *Endpoint Manager* section
+    * Dashboard
+    * Apps
+    * Devices
+    * Endpoint Security
+    * Reports
+    * Tenant Admin
+* [New] *Troubleshooting* section
+    * Call Quality Dashboard
+    * Network Connectivity Test
+    * Service Health
+* [New] Additional entries
+    * *Azure Portal* > Universal Print
+    * *Azure Portal* > Cloud Shell
+    * *Power Platform* > Virtual Agents
+    * *Security & Compliance* > Defender Security Centre
+* [New] Brand new iconography. New colour icon for light mode and B&W icon for dark mode
+* [Updated] Renamed *Compliance* to *Security & Compliance*
+* [Updated] Small UI improvements
+* [Updated] Changes to the About page
 
 ### 1.2 (23 Jan 2021)
 * Additional entries for the 365 Admin Centre and Compliance

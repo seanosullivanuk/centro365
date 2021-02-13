@@ -3,7 +3,7 @@
 Name:			    Core
 Description: 	Core stylesheet
 Author:		  	Sean O'Sullivan, including work derived from a CodePen by Julia Rietveld (https://codepen.io/MrsColombo)
-Version:	  	2020-10-11
+Version:	  	2021-02-13
 
 */
 
@@ -18,9 +18,9 @@ body {
 }
 
 #container_frame {
-    width: 281px;
-    border-top: 4px solid #5e3f82;
-    border-bottom: 4px solid #5e3f82;
+    width: 300px;
+    border-top: 6px solid #5e3f82;
+    border-bottom: 6px solid #5e3f82;
 }
 
 .iconsize {
