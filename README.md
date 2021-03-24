@@ -1,7 +1,7 @@
 # Centro 365
 
  <h4>
-    <img src="https://img.shields.io/badge/Centro%20365-1.3-purple.svg" />
+    <img src="https://img.shields.io/badge/Centro%20365-1.4-purple.svg" />
     <a href="https://github.com/seanosullivanuk/centro365/commits/main"><img src="https://img.shields.io/github/last-commit/seanosullivanuk/centro365.svg?style=plasticr"/></a>
  </h4>
 
@@ -20,6 +20,21 @@ Centro 365 provides quick and convenient access to many of the Microsoft 365 and
 There's also support for dark mode, which switches in and out automatically, matching your operating system. What more can I say? It's a simple and straightforward web browser extension, whipped up over the course of a weekend whilst my wife was watching the racing. 🐴
 
 ## Changelog
+
+### 1.4 (24 Mar 2021)
+* [New] *365 Apps* section
+    * Home
+    * Inventory
+    * Office Customisation
+    * Policy Management
+    * Security
+    * Servicing Profile
+* [New] Additional entries
+    * *365 Admin* > Rooms & Equipment
+    * *Azure Portal* > Admin Consent Requests
+    * *Exchange Online* > Mail Flow Rules
+    * *Exchange Online* > Mail Flow Reports
+    * *Exchange Online* > Public Folders
 
 ### 1.3 (13 Feb 2021)
 * [New] *Endpoint Manager* section
